@@ -7,3 +7,8 @@ the data.csv have only indian companies and few other foreign companies too, soo
 
 there will be updates in this soon and if you want to contribute in this , please do ..
 and if you want to know more about code that i used in this ,feel free to contact 
+
+
+steps:
+1) install all requirements  "pip install -r requirements.txt"
+2) run main.py or "streamlit run visualcode.py" in cmd 
