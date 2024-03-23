@@ -1,9 +1,9 @@
-matplotlib==3.5.2
-pandas==1.4.3
-plotly==5.9.0
-streamlit==1.11.0
-streamlit_option_menu==0.3.2
-yfinance==0.1.74
+matplotlib
+pandas
+plotly
+streamlit
+streamlit_option_menu
+yfinance
 bs4
 requests
 streamlit_antd_components
