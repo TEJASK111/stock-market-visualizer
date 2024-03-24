@@ -12,3 +12,6 @@ and if you want to know more about code that i used in this ,feel free to contac
 steps:
 1) install all requirements  "pip install -r requirements.txt"
 2) run main.py or "streamlit run visualcode.py" in cmd 
+
+
+the webserver (https://stock-market-visualizer.streamlit.app/) and localhost has some difference ..like the background colour and file display system 
