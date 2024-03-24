@@ -170,7 +170,7 @@ elif(selected == 'sell/buy'):
 #about section
 elif(selected == 'About'): 
     st.subheader("ABOUT THE PROJECT   👾 ℹ️ ", divider='green')
-    st.error("this app is made with python using streamlit (a web server based python library), as a backend to help us run it on the web server. this app is also hosted on the app under this link ""https://stock-market-visualizer.streamlit.app/" )   
+    st.error("this app is made with python using streamlit (a web server based python library). this app is also hosted on this link ""https://stock-market-visualizer.streamlit.app/" )   
 
 
 
